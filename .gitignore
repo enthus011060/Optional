@@ -1,0 +1,12 @@
+# Eseguibili generati dalla compilazione
+programma
+main
+
+# File oggetto e librerie compilate
+*.o
+*.a
+*.dylib
+*.so
+
+# File temporanei del sistema operativo
+.DS_Store
