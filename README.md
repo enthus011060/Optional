@@ -35,6 +35,7 @@ optional/
 │   └── utenti.c
 ├── examples/
 │   └── main.c
+├── LICENSE
 ├── README.md
 └── .gitignore
 ```
@@ -102,4 +103,6 @@ Per avviare il programma:
 
 ## Licenza
 
-La licenza del progetto deve essere scelta e specificata prima della distribuzione pubblica.
+Questo progetto è distribuito con licenza [MIT](LICENSE).
+
+Consulta il file `LICENSE` per leggere il testo completo della licenza.
